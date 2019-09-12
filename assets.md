@@ -5,8 +5,8 @@
 
 Created Assets | Source
 ------------ | -------------
-~~Dania | Record myself
-Mother | Record myself or friend (need permission) ~~
+~~Dania~~ | ~~Record myself~~
+~~Mother~~ | ~~Record myself or friend (need permission)~~
 Older Sister | Record myself or friend (need permission)
 Disney princess interaction | Record myself
 Muffled sounds in bag | Record 
@@ -15,15 +15,15 @@ Doll falling to the ground | Record
 Running footsteps | Record
 Mobile phone ringing  | Record
 Boy/girl in the end | Record my nephew or niece (need permission)
-~~Cashier sounds in the doll store | Record ~~
+~~Cashier sounds in the doll store~~ | ~~Record~~
 
 
 Repurposed Assets (need to find clips with usable permissions)
 ------------ | 
 Background chatter | 
-~~Disney music | ~~
+~~Disney music~~ | 
 Roller-coaster sound | 
-~~Store music | ~~
+~~Store music~~ |
 
 **FOUND AND RECORDED**
 
@@ -37,6 +37,7 @@ Disney Background Music | Found YouTube Piano Track- CC-Attributions License
 Door chime | Found FreeSound.com - CC-Attributions 
 Door closing | Found FreeSound.com - CC-Attributions
 Cashier Ding | Found FreeSound.com - CC-Attributions
+Disney Background Outdoor | Found YouTube Vlog- CC-Attributions License
 
 
 
