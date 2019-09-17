@@ -1,20 +1,9 @@
-12/09/2019 - Soundscape Narrative Progress 
+17/09/2019 - Soundscape Narrative Progress 
 
-So far, I have arranged the audio clips for the beginning scene at the Disney store, where Dania gets her doll. I was able to find satisfactory audio clips of
-Disney themed background music (proved to be harder than I presumed- thanks Disney Legal Department), door-related sounds, and the cashier. I have 
-temporarily recorded dialogue, split them into three separate conversations, and used them as placeholder clips to ease layering of other clips. With this placeholder recorded dialogue, I played around 
-with fading effects, and how I wanted to position the listener (is the doll close to the enterance, or further away? Should Dania wonder around a bit before picking 
-up Ariel or should she come in knowing what she wants? How loud must the volume of the employee's French greeting be (again, closeness to the doll)? Should there be fading effects 
-here too?). In the screenshot, some of the fading effects can be seen (most prominent and permenant one is the quick fading out effect of the Disney instrumental store music after the door chime 
-our main characters leave the store). For this scene, the changes I want to make (in addition to re-recording the dialogue) is add footsteps to 
-cement the idea of distance, and add a little background chatter. I don't want to distract the listener from the background music here (I am hoping the class Disney music
-will aid in the listener's understanding of what's happening), but I think a little background chatter would be helpful in painting a realistic picture. 
+For this soundscape project, I challenged myself by weaving together a story in a new platform (Audacity). I recorded diaogue and other sounds, such as footsteps, and downloaded soundclips with appropriate permissions. I then used new tools, such as the envelope tool and pitch changes to edit, magnify or fade the sounds together. 
 
-The last clip seems to be the busiest (and there is more to the right that you can't see in this screenshot). This is the background sound 
-for outdoor Disneyland. I got this by carefully (and rather painfully) cutting parts of a Disney vlog I found with a CC-Attrubutions license. However, 
-after I chopped it, I listened to it, and it feels too fast paced. After taking out all the dialogue, there are just too many cuts for it to be a good transitioning 
-background sound. I realize I am going to part with most of it (sad), but I also realized that I can chop away sound to change scenery within the park (yay). 
-To show that Dania is walking around and time is passing (without dragging the clip to be 15 mins long), I can change the background sound to be a little 
-choppy. I found other clips that have more background sound, and I plan to use a combination of the different clips for outdoor background sound. 
+In this draft, I have all the intended clips and the progression plan of my story is laid out. After spending time working on each of the individual parts, I have a few areas I would like to improve on. One major challenge of mine was recording speech. I planned to voice four characters, and I knew it wouldn't be easy, since I was never skilled at accents. For this, I watched several videos on voice acting, and how to impersonate Disney characters (they have a distinct tone and speech). Despite my efforts, I worry that the sounds of the mother's character and Dania sound too similar to the listener. I have current plans to ask my friend to voice the mother's character, but I will decide on this after my classmates' feedback.  
 
+Another change I want to make is to the script itself. I realized after recording, when I was piecing it all together, that I needed to record more responses from the mother to connect the story more naturally. Furthermore, I think the beginning clip is a little too quiet. I may add more background sounds to the store scene, but for this too, I will see what feedback my peers give. 
 
+I think my biggest concern remains whether listeners will understand what is happening and will pay attention to the sounds I want them to... 
