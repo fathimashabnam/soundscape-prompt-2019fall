@@ -6,6 +6,10 @@
 
 Follow Dania as she experiences Disneyland Paris, through the eyes of Ariel, her new doll.
 
+**Transcript:** 
+
+![Can be found here](Transcript.md)
+
 <br/>
 <br/>
 
