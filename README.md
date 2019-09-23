@@ -4,7 +4,7 @@
 
 **Description:** 
 
-Follow Dania as she experiences Disneyland Paris, through the eyes of Ariel, her new doll.
+Follow Dania as she experiences Disneyland Paris through the eyes of Ariel, her new doll.
 
 **Transcript:** 
 
