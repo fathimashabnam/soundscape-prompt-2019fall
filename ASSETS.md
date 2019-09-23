@@ -1,5 +1,7 @@
 <h1> Assets- Soundscape Narrative </h1>
 
+The proper credits for the downloaded soundclips can be found in the ![README.md file](README.md). 
+
 
 **FOUND AND RECORDED**
 
@@ -25,3 +27,4 @@ Roller-coaster sound | Found FreeSound.com - CC-Attributions
 Handbag zip | Found FreeSound.com - CC-Attributions
 Handbag contents moving | Found FreeSound.com - CC-Attributions
 Dania snoring | Recorded
+Autograph | Found FreeSound.com - CC-Attributions
